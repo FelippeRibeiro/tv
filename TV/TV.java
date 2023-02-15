@@ -5,6 +5,7 @@ public class TV {
 	private int volume;
 	private int canalAtual;
 	private int[] canaisDisponiveis = {1,3,5,7,11};
+	public int id= 1920;
 
 	
 	public TV(){
